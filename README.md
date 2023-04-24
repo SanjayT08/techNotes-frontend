@@ -1,3 +1,3 @@
 # techNotes-frontend
-<!-- Mark -->
-<!-- abcd -->
+Mark
+abcd
